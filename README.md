@@ -12,5 +12,5 @@
 
 
 ### Follow Me
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liudmyla-murzina)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liudmyla-murzina-751a53185)
 
