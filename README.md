@@ -1,6 +1,6 @@
 ### Hi there, I'm Liudmyla
 
-### I'm a front-end developer
+### I'm a markup developer
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/-React-<COLOR>?style=for-the-badge&logo=react)
